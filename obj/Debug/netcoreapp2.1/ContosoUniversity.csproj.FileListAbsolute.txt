@@ -40,3 +40,13 @@ D:\HUUNHAT\Learning_Web\Dot_Net_Core\ContosoUniversity\ContosoUniversity\obj\Deb
 D:\HUUNHAT\Learning_Web\Dot_Net_Core\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Details.g.cshtml.cs
 D:\HUUNHAT\Learning_Web\Dot_Net_Core\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Edit.g.cshtml.cs
 D:\HUUNHAT\Learning_Web\Dot_Net_Core\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Enrollments\Index.g.cshtml.cs
+D:\HUUNHAT\Learning_Web\Dot_Net_Core\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Create.g.cshtml.cs
+D:\HUUNHAT\Learning_Web\Dot_Net_Core\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Delete.g.cshtml.cs
+D:\HUUNHAT\Learning_Web\Dot_Net_Core\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Details.g.cshtml.cs
+D:\HUUNHAT\Learning_Web\Dot_Net_Core\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Edit.g.cshtml.cs
+D:\HUUNHAT\Learning_Web\Dot_Net_Core\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Courses\Index.g.cshtml.cs
+D:\HUUNHAT\Learning_Web\Dot_Net_Core\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Instructors\Create.g.cshtml.cs
+D:\HUUNHAT\Learning_Web\Dot_Net_Core\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Instructors\Delete.g.cshtml.cs
+D:\HUUNHAT\Learning_Web\Dot_Net_Core\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Instructors\Details.g.cshtml.cs
+D:\HUUNHAT\Learning_Web\Dot_Net_Core\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Instructors\Edit.g.cshtml.cs
+D:\HUUNHAT\Learning_Web\Dot_Net_Core\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.1\Razor\Views\Instructors\Index.g.cshtml.cs

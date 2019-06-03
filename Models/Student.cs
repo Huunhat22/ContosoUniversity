@@ -30,7 +30,7 @@ namespace ContosoUniversity.Models
         {
             get
             {
-                return LastName + ", " + FristMidName;
+                return LastName + " " + FristMidName;
             }
         }
 
